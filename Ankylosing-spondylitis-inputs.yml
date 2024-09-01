@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/spondylitis---secondary.py
+inputModule3:
+  class: File
+  path: python/juvenile-ankylosing-spondylitis---secondary.py
+inputModule4:
+  class: File
+  path: python/occipitoatlantoaxial-ankylosing-spondylitis---secondary.py
+inputModule5:
+  class: File
+  path: python/cervical-ankylosing-spondylitis---secondary.py
+inputModule6:
+  class: File
+  path: python/ankylosing-spondylitis-lumbar---secondary.py
+inputModule7:
+  class: File
+  path: python/multiple-ankylosing-spondylitis---secondary.py
+inputModule8:
+  class: File
+  path: python/cervicothoracic-ankylosing-spondylitis---secondary.py
+inputModule9:
+  class: File
+  path: python/lumbosacral-ankylosing-spondylitis---secondary.py
+inputModule10:
+  class: File
+  path: python/ankylosing-spondylitis-unspecified---secondary.py
+inputModule11:
+  class: File
+  path: python/ankylosing-spondylitis-lesion---secondary.py
+inputModule12:
+  class: File
+  path: python/ankylosing-spondylitis-multisystem---secondary.py
+inputModule13:
+  class: File
+  path: python/ankylosing-spondylitis-deformity---secondary.py
+inputModule14:
+  class: File
+  path: python/spondyloarthropathy-ankylosing-spondylitis---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
